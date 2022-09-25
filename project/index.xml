@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/project/</link>
+    <description>Recent content in Project on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hanrunbing.github.io/personal-website/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-Cell In Situ Spatial Omics at Subcelluar Resolution (SCISSOR)</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-1/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-1/</guid>
+      <description>mFISH based Immunotherapy statustracking   Techniques for analyzing the spatial organization of tumor microenvironment(TME) and the immune cells within are lacking, as immunohistochemical methods are extremely low-throughput. Single-cell techniques, being unbiased in analyzing variety and composition of cell types will be capable of precisely detecting disease-associated cell states, including rare but potent ones.   In this project, we aim to use multiplex error robust fluorescence-in-situ-hybridization (mFISH) to create accurate, sub-cellular-resolution cellular profiles of the colorectal TME and study the roles and interactions of different cell types.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Based Nuclear Classification Method</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-2/</guid>
+      <description>Nanochip designs for high-precision guidance of subcellular deformations    Irregularities in nuclear shape are common characteristic features of cancer cells. However, assessment of such irregularities still mainly relies on the visual inspection of individual pathologists in clinical practice and is suffered with low accuracy and reproducibility. Thus, an automatic and high-throughput system for quantitative and objective evaluation of nuclear shape irregularities is highly needed. .   This method automatically isolates individual nucleus, recognizes the subnuclear morphological features on nanostructures, quantitatively characterizes the subnuclear shape irregularities, and performs Machine Learning based classification for cell grading.</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision based Ultrasound Scan Analysis and Feature Detection</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-3/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-3/</guid>
+      <description>Data Collection and Experiments    Irregularities in nuclear shape are common characteristic features of cancer cells. However, assessment of such irregularities still mainly relies on the visual inspection of individual pathologists in clinical practice and is suffered with low accuracy and reproducibility. Thus, an automatic and high-throughput system for quantitative and objective evaluation of nuclear shape irregularities is highly needed. .   This method automatically isolates individual nucleus, recognizes the subnuclear morphological features on nanostructures, quantitatively characterizes the subnuclear shape irregularities, and performs Machine Learning based classification for cell grading.</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision based Ultrasound Scan Analysis and Feature Detection</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-4/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-4/</guid>
+      <description>Data Collection and Experiments    Irregularities in nuclear shape are common characteristic features of cancer cells. However, assessment of such irregularities still mainly relies on the visual inspection of individual pathologists in clinical practice and is suffered with low accuracy and reproducibility. Thus, an automatic and high-throughput system for quantitative and objective evaluation of nuclear shape irregularities is highly needed. .   This method automatically isolates individual nucleus, recognizes the subnuclear morphological features on nanostructures, quantitatively characterizes the subnuclear shape irregularities, and performs Machine Learning based classification for cell grading.</description>
+    </item>
+    
+    <item>
+      <title>Self-Driving Solution: Deep-Learning based Objects Tracking</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-5/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-5/</guid>
+      <description>  Object Tracking   Radar Map    Deep Learning structure (Yolo3)    YOLOv3 has the advantages of detection speed and accuracy and meets the real-time requirements for objects detection. </description>
+    </item>
+    
+  </channel>
+</rss>

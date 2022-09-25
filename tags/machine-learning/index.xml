@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hanrunbing.github.io/personal-website/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Based Nuclear Classification Method</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-2/</guid>
+      <description>Nanochip designs for high-precision guidance of subcellular deformations    Irregularities in nuclear shape are common characteristic features of cancer cells. However, assessment of such irregularities still mainly relies on the visual inspection of individual pathologists in clinical practice and is suffered with low accuracy and reproducibility. Thus, an automatic and high-throughput system for quantitative and objective evaluation of nuclear shape irregularities is highly needed. .   This method automatically isolates individual nucleus, recognizes the subnuclear morphological features on nanostructures, quantitatively characterizes the subnuclear shape irregularities, and performs Machine Learning based classification for cell grading.</description>
+    </item>
+    
+  </channel>
+</rss>

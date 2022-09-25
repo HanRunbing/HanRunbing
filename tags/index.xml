@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/tags/</link>
+    <description>Recent content in Tags on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hanrunbing.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python &amp; R</title>
+      <link>https://hanrunbing.github.io/personal-website/tags/python-r/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/tags/python-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://hanrunbing.github.io/personal-website/tags/machine-learning/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://hanrunbing.github.io/personal-website/tags/linux/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://hanrunbing.github.io/personal-website/tags/computer-vision/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Spatial Omics</title>
+      <link>https://hanrunbing.github.io/personal-website/tags/single-cell-spatial-omics/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/tags/single-cell-spatial-omics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

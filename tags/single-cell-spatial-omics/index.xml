@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single-Cell Spatial Omics on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/tags/single-cell-spatial-omics/</link>
+    <description>Recent content in Single-Cell Spatial Omics on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hanrunbing.github.io/personal-website/tags/single-cell-spatial-omics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision based Ultrasound Scan Analysis and Feature Detection</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-4/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-4/</guid>
+      <description>Data Collection and Experiments    Irregularities in nuclear shape are common characteristic features of cancer cells. However, assessment of such irregularities still mainly relies on the visual inspection of individual pathologists in clinical practice and is suffered with low accuracy and reproducibility. Thus, an automatic and high-throughput system for quantitative and objective evaluation of nuclear shape irregularities is highly needed. .   This method automatically isolates individual nucleus, recognizes the subnuclear morphological features on nanostructures, quantitatively characterizes the subnuclear shape irregularities, and performs Machine Learning based classification for cell grading.</description>
+    </item>
+    
+  </channel>
+</rss>

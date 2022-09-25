@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/blog/</link>
+    <description>Recent content in Blog on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://hanrunbing.github.io/personal-website/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

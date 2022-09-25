@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python &amp; R on HAN Runbing</title>
+    <link>https://hanrunbing.github.io/personal-website/tags/python-r/</link>
+    <description>Recent content in Python &amp; R on HAN Runbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hanrunbing.github.io/personal-website/tags/python-r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-Cell In Situ Spatial Omics at Subcelluar Resolution (SCISSOR)</title>
+      <link>https://hanrunbing.github.io/personal-website/project/project-1/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hanrunbing.github.io/personal-website/project/project-1/</guid>
+      <description>mFISH based Immunotherapy statustracking   Techniques for analyzing the spatial organization of tumor microenvironment(TME) and the immune cells within are lacking, as immunohistochemical methods are extremely low-throughput. Single-cell techniques, being unbiased in analyzing variety and composition of cell types will be capable of precisely detecting disease-associated cell states, including rare but potent ones.   In this project, we aim to use multiplex error robust fluorescence-in-situ-hybridization (mFISH) to create accurate, sub-cellular-resolution cellular profiles of the colorectal TME and study the roles and interactions of different cell types.</description>
+    </item>
+    
+  </channel>
+</rss>
