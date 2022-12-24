@@ -204,7 +204,7 @@
             
           </div>
           <h1>Self-Driving Solution: Deep-Learning based Objects Tracking</h1>
-          <h2 class="subheading">Implement a deep learning model(Yolo3) on the street video, achieving objects tracking with real-time distance estimation</h2>
+          <h2 class="subheading">Implement a deep learning model(Yolo3) on the street video, achieving object tracking with real-time distance estimation</h2>
           <span class="meta">
             Posted by  Han Runbing 
             on Sun, Sep 18, 2022
@@ -239,7 +239,10 @@
             <source src="https://hanrunbing.github.io/personal-website/img/output_1.mp4" type="video/mp4">
             <source src="https://hanrunbing.github.io/personal-website/img/output_1.ogg" type="video/ogg">
         </video>
-    </div> 
+    </div>
+    <p class="pt-5">Given sequential rectified stereo images with camera information, 
+      the objects (including vehicles and passengers) should be detected and tracked across image frames. 
+      As the output, the object bounding box, tracking ID, and distance from the box center to the camera optic center should be reported and shown in the video.<p> 
     <h2 class="text-center"style="color: #337ab7">Radar Map</h2>
     <div style="text-align:center"> 
     <video id="video2" width="400" controls>
@@ -247,17 +250,18 @@
         <source src="https://hanrunbing.github.io/personal-website/img/view_video.ogg" type="video/ogg">
     </video>
     </div> 
+    <p class="pt-5">Generated radar map based on the output of object tracking and distance estimation, which could clearly observe the traffic conditions on the road in real-time.<p> 
   </div>
-<h2 class="text-center" style="color: #337ab7;border-top: 2px solid #337ab7">Deep Learning structure (Yolo3)
+<h2 class="text-center" style="color: #337ab7;border-top: 2px solid #337ab7">Deep learning model selection
 </h2>
 <div class="pb-0">
     <div class="mx-auto text-center pt-4 pb-2">
         <img src="https://hanrunbing.github.io/personal-website/img/pro5_0.png" style="height: 50vh; min-width: 70vh !important;">
     </div>
 </div>
-<p class="pt-5">YOLOv3 has
-the advantages of detection speed and accuracy and meets the real-time requirements for objects
-detection.<p>
+<p class="pt-5">Compared to the traditional CV detection methods, YOLOv3 has
+  the advantages of detection speed and accuracy and meets the real-time requirements for object
+  detection. Here is the structure of the model.<p>
 
 
         <hr style="visibility: hidden;" />
